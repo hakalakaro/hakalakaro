@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @hakalakaro
-- 👀 I’m interested in games, traveling, hockey and basketball.
-- 🌱 I’m currently learning to code !
-- 💞️ I’m looking to collaborate on ..?
-- 📫 How to reach me -> Here or by email.
+Hey, welcome to my github profile!
+
+I am Karo Hakala, 31 years old software developer student in Gradia Jyväskylä. I live in Espoo, Finland. 
+
+My main interest is in front end development but I'm always eager to learn new things. 
+My skills in coding consists of C#, HTML, CSS, Javascript, PHP, WinForms and SQL.
+I'm aiming to land a job on software development industry.
+
+I like to spend my freetime mainly with computers, playing games or testing some ideas that come to mind. 
+I also love traveling, ice hockey, basketball and good food!
+
+Here in this profile you will see some of the work I have done while studying in Gradia Jyväskylä.
+
+Thank you for visiting!
+
+Karo Hakala
+
 
 <!---
 hakalakaro/hakalakaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
