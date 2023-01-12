@@ -4,7 +4,7 @@ I am Karo Hakala, 31 years old software developer student at Gradia Jyväskylä.
 
 My main interest is in front-end development but I'm always eager to learn new things. 
 My skills in coding consists of C#, HTML, CSS, Javascript, PHP, WinForms and SQL.
-I'm currently looking for a job or an internship on software development industry.
+I'm currently looking for a job or an internship in software development industry.
 
 I like to spend my freetime mainly with computers, playing games or testing some ideas that come to mind. 
 I also love traveling, ice hockey, basketball and good food!
