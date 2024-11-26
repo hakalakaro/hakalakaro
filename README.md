@@ -1,19 +1,36 @@
-Hey, welcome to my Github profile!
+# Welcome to My GitHub Profile! 👋
 
-I am Karo Hakala, 33 years old software developer. I graduated from Gradia (Jyväskylä) in summer 2023. I live in Espoo, Finland. 
+Hi, I’m **Karo Hakala**, a 33-year-old software developer based in Espoo, Finland. I graduated from **Gradia Jyväskylä** in summer 2023 and have a passion for creating impactful and user-friendly software.
 
-My main interest is in web development but I'm always eager to learn new things. 
-My skills in coding consists of C#, HTML, CSS, Javascript, PHP, WinForms and SQL.
-I'm currently looking for a job or an internship in software development industry.
+---
 
-I like to spend my freetime mainly with computers, playing games or testing some ideas that come to my mind. 
-I also love traveling, ice hockey, basketball and good food!
+## About Me
+- **Interests**: My primary focus is **web development**, but I’m always eager to expand my knowledge and learn new technologies.  
+- **Skills**:  
+  - Programming languages: **C#, TypeScript, JavaScript, PHP, SQL, HTML, and CSS**.  
+  - Frameworks/Tools: **Node.js** and **Express.js**.  
+  - Databases: **MongoDB (NoSQL)** and **phpMyAdmin (SQL)**.  
+- **Current Goal**: I’m actively seeking a **job** or **internship** in the software development industry where I can contribute and grow.
 
-Here in this profile you will see some of the work I have done while studying at Gradia Jyväskylä.
+---
 
-Thank you for visiting!
+## What You'll Find Here
+On this profile, you’ll discover projects I’ve worked on during my studies at Gradia and in my free time. These reflect my passion for problem-solving, coding, and continuous improvement.
 
-Karo Hakala
+---
+
+## A Bit More About Me
+Outside of coding, I enjoy:  
+- **Gaming (Dota2, World of Warcraft)**.
+- **Traveling**, **coffee**, and enjoying **good food**.  
+- Following **ice hockey** and **basketball**.
+
+---
+
+Thank you for visiting my profile! Feel free to explore my projects and connect if you’d like to collaborate or discuss opportunities.  
+
+**- Karo Hakala**
+
 
 
 <!---
